@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The aim of this project is to master React by utilizing props to create incremented counters for a shopping cart.
+
 
 ## Available Scripts
 
